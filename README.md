@@ -17,7 +17,8 @@ CSE graduate · University of Rajshahi · building e-commerce mobile products re
 <a href="https://salman-sazid-007.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-visit_site-f0a03c?style=for-the-badge&labelColor=1b2030" alt="Portfolio" /></a>
 <a href="https://raw.githubusercontent.com/Salman-Sazid-007/Salman-Sazid-007/main/assets/Md-Salman-Sazid-CV.pdf"><img src="https://img.shields.io/badge/CV-download_pdf-f0a03c?style=for-the-badge&labelColor=1b2030&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
 <a href="mailto:salmansazid70@gmail.com"><img src="https://img.shields.io/badge/Email-say_hello-ea4335?style=for-the-badge&labelColor=1b2030&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/md-salman-sazid"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&labelColor=1b2030&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/salman-sazid-5339aa412"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&labelColor=1b2030&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://wa.me/qr/AXQFATLJICZAA1"><img src="https://img.shields.io/badge/WhatsApp-chat_now-25d366?style=for-the-badge&labelColor=1b2030&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 <sub>📍 Rajshahi, Bangladesh · 🕒 Remote-friendly (UTC+6) · 🟢 Open to mobile & software roles</sub>
 
@@ -310,7 +311,8 @@ I'm open to **full-time software and mobile development roles**, plus select fre
 I usually reply within a day.
 
 <a href="mailto:salmansazid70@gmail.com"><img src="https://img.shields.io/badge/salmansazid70@gmail.com-1b2030?style=for-the-badge&logo=gmail&logoColor=f0a03c" alt="Email" /></a>
-<a href="tel:+8801727809737"><img src="https://img.shields.io/badge/+880_1727--809737-1b2030?style=for-the-badge&logo=whatsapp&logoColor=f0a03c" alt="Phone" /></a>
+<a href="https://wa.me/qr/AXQFATLJICZAA1"><img src="https://img.shields.io/badge/WhatsApp-chat_now-25d366?style=for-the-badge&labelColor=1b2030&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.linkedin.com/in/salman-sazid-5339aa412"><img src="https://img.shields.io/badge/LinkedIn-salman--sazid--5339aa412-0a66c2?style=for-the-badge&labelColor=1b2030&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/><br/>
 

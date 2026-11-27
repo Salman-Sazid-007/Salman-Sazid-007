@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="presentation">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8892a8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8892a8" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#8892a8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f0a03c" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#f0a03c" stop-opacity="1"/>
+      <stop offset="1" stop-color="#f0a03c" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="12.0" x2="1200" y2="12.0" stroke="url(#fade)" stroke-width="1"/>
+  <line x1="360.0" y1="12.0" x2="840.0" y2="12.0" stroke="url(#amber)" stroke-width="1.5"/>
+  <rect x="595.0" y="7.0" width="10" height="10" transform="rotate(45 600.0 12.0)" fill="none" stroke="#f0a03c" stroke-width="1.5"/>
+  <circle cx="216.0" cy="12.0" r="1.8" fill="#f0a03c" fill-opacity="0.8"/>
+  <circle cx="983.9999999999999" cy="12.0" r="1.8" fill="#f0a03c" fill-opacity="0.8"/>
+</svg>

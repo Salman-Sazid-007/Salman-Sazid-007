@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="MD Salman Sazid — Mobile App Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#151a26"/>
+      <stop offset="1" stop-color="#222a3d"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f0a03c" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#f0a03c" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#f0a03c" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#f0a03c" fill-opacity="0.35"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+
+    <!-- decorative geometry -->
+    <rect x="940" y="-60" width="380" height="380" fill="url(#dots)" opacity="0.5" transform="rotate(12 1200 0)"/>
+    <circle cx="1050" cy="70" r="140" fill="none" stroke="#f0a03c" stroke-opacity="0.18" stroke-width="1"/>
+    <circle cx="1050" cy="70" r="190" fill="none" stroke="#f0a03c" stroke-opacity="0.10" stroke-width="1"/>
+    <rect x="1104" y="224" width="52" height="52" fill="none" stroke="#f0a03c" stroke-opacity="0.5" stroke-width="1.5" transform="rotate(45 1130 250)"/>
+
+    <!-- top rule -->
+    <rect x="0" y="0" width="1200" height="4" fill="url(#sheen)"/>
+
+    <!-- mono label -->
+    <text x="72" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="15" letter-spacing="5" fill="#f0a03c">PORTFOLIO · RAJSHAHI, BANGLADESH</text>
+
+    <!-- name -->
+    <text x="70" y="172" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif"
+          font-size="72" font-weight="700" letter-spacing="-1.5" fill="#f2f4f8">MD Salman Sazid</text>
+
+    <!-- amber rule -->
+    <rect x="72" y="199" width="120" height="4" fill="#f0a03c"/>
+
+    <!-- roles -->
+    <text x="72" y="248" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif"
+          font-size="26" fill="#9aa4ba">Mobile App Developer  ·  React Native  ·  JavaScript</text>
+    <text x="72" y="284" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="17" letter-spacing="1" fill="#9aa4ba" fill-opacity="0.85">B.Sc. CSE, University of Rajshahi  ·  Python, ML &amp; Climate Data</text>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="18" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>
